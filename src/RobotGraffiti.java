@@ -14,5 +14,6 @@ mrrobo.setRandomPenColor();
 mrrobo.turn(1);
 mrrobo.move(1);
 }
+mrrobo.move(50);
 }
 }
